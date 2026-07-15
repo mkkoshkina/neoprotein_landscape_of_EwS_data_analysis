@@ -1,0 +1,9 @@
+enzyme,path
+AspN,/mnt/raid0/ewing_sarcoma/output/MSK/AspN/protein.tsv
+GluC,/mnt/raid0/ewing_sarcoma/output/MSK/GluC/protein.tsv
+Trypsin,/mnt/raid0/ewing_sarcoma/output/MSK/Trypsin/protein.tsv
+LysC,/mnt/raid0/ewing_sarcoma/output/MSK/LysC/protein.tsv
+LysN,/mnt/raid0/ewing_sarcoma/output/MSK/LysN/protein.tsv
+ArgC,/mnt/raid0/ewing_sarcoma/output/MSK/ArgC/protein.tsv
+Chymotrypsin,/mnt/raid0/ewing_sarcoma/output/MSK/Chymotrypsin/protein.tsv
+Proalanase,/mnt/raid0/ewing_sarcoma/output/MSK/Proalanase/protein.tsv

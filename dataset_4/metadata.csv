@@ -1,0 +1,11 @@
+sample,search_engine,fdr,path,DB,hla_alleles
+A673,Fragpipe,0.01,/mnt/raid0/ewing_sarcoma/output/Immumopeptidomics/12122025/A673/psm.tsv,uniprot_NT,HLA-A01:01|HLA-A02:01|HLA-B07:02|HLA-C07:02
+EW16,Fragpipe,0.01,/mnt/raid0/ewing_sarcoma/output/Immumopeptidomics/12122025/EW16/psm.tsv,uniprot_NT,HLA-A02:01|HLA-B44:03|HLA-B51:01|HLA-C16:01|HLA-C05:01
+EW7,Fragpipe,0.01,/mnt/raid0/ewing_sarcoma/output/Immumopeptidomics/12122025/EW7/psm.tsv,uniprot_NT,HLA-A02:01|HLA-A03:01|HLA-B35:01|HLA-B51:01|HLA-C04:01|HLA-C15:02
+STA-ET-1,Fragpipe,0.01,/mnt/raid0/ewing_sarcoma/output/Immumopeptidomics/12122025/STA_ET_1/psm.tsv,uniprot_NT,HLA-A02:01|HLA-A30:04|HLA-B51:08|HLA-B44:02|HLA-C05:01|HLA-C16:02
+TC71,Fragpipe,0.01,/mnt/raid0/ewing_sarcoma/output/Immumopeptidomics/12122025/TC71/psm.tsv,uniprot_NT,HLA-A68:01|HLA-A02:01|HLA-B44:02|HLA-B15:01|HLA-C03:03|HLA-C05:01
+IC-pPDX-8,Fragpipe,0.01,/mnt/raid0/ewing_sarcoma/output/Immumopeptidomics/12122025/IC_pPDX_8/psm.tsv,uniprot_NT,HLA-A02:01|HLA-A33:03|HLA-B15:03|HLA-B51:08|HLA-C16:02|HLA-C02:10
+IC-pPDX-5,Fragpipe,0.01,/mnt/raid0/ewing_sarcoma/output/Immumopeptidomics/12122025/IC_pPDX_5/psm.tsv,uniprot_NT,HLA-A03:01|HLA-A02:01|HLA-B50:01|HLA-B52:01|HLA-C06:02|HLA-C12:02
+IC-pPDX-164,Fragpipe,0.01,/mnt/raid0/ewing_sarcoma/output/Immumopeptidomics/12122025/IC_pPDX_164/psm.tsv,uniprot_NT,HLA-A01:01|HLA-B57:01|HLA-C03:04|HLA-C07:02
+IC-pPDX-179,Fragpipe,0.01,/mnt/raid0/ewing_sarcoma/output/Immumopeptidomics/12122025/IC_pPDX_179/psm.tsv,uniprot_NT,HLA-A30:01|HLA-A32:01|HLA-B40:02|HLA-B51:01|HLA-C02:02|HLA-C16:02
+IC-pPDX-141,Fragpipe,0.01,/mnt/raid0/ewing_sarcoma/output/Immumopeptidomics/12122025/IC_pPDX_141/psm.tsv,uniprot_NT,HLA-A30:01|HLA-A02:01|HLA-B35:03|HLA-B44:03|HLA-C15:02|HLA-C02:02
